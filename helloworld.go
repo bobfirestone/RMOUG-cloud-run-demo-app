@@ -30,5 +30,5 @@ func main() {
 }
 
 func greet() string {
-	return "Hello, world!"
+	return "Hello, world! This is running"
 }
